@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_defaout">#F2C6C2</color>
+    <color name="my_dark_primary">#A183C3</color>
+    <color name="color_button">#F28585</color>
+    <color name="color_linho">#F2E8DF</color>
+    <color name="color_marromAmarelado">#F2B263</color>
+    <color name="color_azulCadete">#86A69D</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
